@@ -1,3 +1,4 @@
+import ResourcesList from "../shared/ResourcesList";
 import SectionButton from "../shared/section-button";
 
 export default function Resources() {
@@ -14,7 +15,7 @@ export default function Resources() {
       </div>
 
       <div className="mx-auto mt-16 px-4 sm:px-6 md:max-w-2xl md:px-4 lg:max-w-7xl lg:px-8">
-        <Resources />
+        <ResourcesList />
       </div>
     </section>
   );

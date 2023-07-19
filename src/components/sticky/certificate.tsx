@@ -1,4 +1,4 @@
-import List from "../shared/list";
+import List from "../shared/ul-list";
 import SectionButton from "../shared/section-button";
 
 export default function Certificate() {
